@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\asdassd\210524_task\bin\Debug\net6.0\210524_task.exe
+C:\Users\FA507XV\Desktop\asdassd\210524_task\bin\Debug\net6.0\210524_task.deps.json
+C:\Users\FA507XV\Desktop\asdassd\210524_task\bin\Debug\net6.0\210524_task.runtimeconfig.json
+C:\Users\FA507XV\Desktop\asdassd\210524_task\bin\Debug\net6.0\210524_task.dll
+C:\Users\FA507XV\Desktop\asdassd\210524_task\bin\Debug\net6.0\210524_task.pdb
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.dll
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\refint\210524_task.dll
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.pdb
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\210524_task.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\asdassd\210524_task\obj\Debug\net6.0\ref\210524_task.dll
